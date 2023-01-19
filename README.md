@@ -25,6 +25,10 @@
     Heroku Deployment:
     - https://limitless-fjord-00031.herokuapp.com/
 
+    due to changes in Herokus services please refer to the Render deployment:
+
+    - https://upenn-assignment-19-budget-tracker.onrender.com/
+
 
 ## Instructions
     Run the server.js file using Node.js via the terminal, command is: 'node server.js'. Ensure all neccessary dependencies / packages are installed. 
